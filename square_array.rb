@@ -4,4 +4,4 @@ def square_array(array)
   element ** 2
  end
 end
-square_array(array)
+puts square_array(array)
